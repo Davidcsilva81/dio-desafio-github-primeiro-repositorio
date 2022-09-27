@@ -1,0 +1,11 @@
+* Como trabalhar com git 
+1º Cria o repositorio no GiTHUB,criar o README colocar um comentário e deixar publico 
+2º copiar o link 
+3º abrir o GIT bash here ( dentro da pasta que deseja trabalhar)
+4º usar os comandos abaixo 
+>> git clone (colar o caminho copiado, colocar a sennha sempre que for solicitado) 
+>>cd (usado sempre para entrar dentro do repositorio desejado) 
+>> git status (para sempre conferir se esta tudo ok) 
+>> git add .( usado para add novos arquivos criados ou alteração quando necessário) 
+>> git commit -m "Coloque aqui o comentario sobre a alteração"  (Criar o versionamento sempre coloque o comentário da versão algo coerente com a modificação)
+>> git push origin main (Sobe o arquivo para o GITHUB)
